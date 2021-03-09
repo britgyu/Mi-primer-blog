@@ -11,7 +11,7 @@ html{
 body {
     color: brown;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #container {
@@ -19,7 +19,7 @@ body {
     width: 70%;
     padding: 0.2rem;
     text-align: center;
-    border: 2px solid gray;
+    border: 5px solid deeppink;
 }
 
 #container h1 {
