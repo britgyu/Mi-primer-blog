@@ -8,6 +8,21 @@ html{
     font-size: 62.5%;
 }
 
+#cabecera {
+    background-color: blanchedalmond;
+    
+}
+
+.link {
+
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 1.6rem;
+    display: flex;
+    
+}
+
 body {
     color: brown;
     text-align: center;
